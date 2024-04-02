@@ -1,0 +1,48 @@
+
+   td,th,table{
+            border: 1px solid black;
+            text-align: center;
+            border-collapse:collapse;
+        
+   }
+   body{
+    background-color:rgb(138, 199, 224) ;
+    text-align: center;
+   }
+   div1{
+    text-align : center
+   }
+   h1{
+    text-align: center;
+   }
+   .img_deg{
+    float:right
+   }
+   *{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   table.centre{
+    margin-left: auto;
+    margin-right: auto;
+   }
+   img{
+        display: block ;
+        margin-left: auto;
+        margin-right:auto;
+    }
+   
+   .main-div{
+    max-width:400px;
+    background-color: brown;
+    padding: 5px;
+   }
+  /* .col1,.col2{
+    max-width: 180px;
+    padding:10px;
+
+   } */
+   
+
+   
